@@ -1,0 +1,4 @@
+nuscenes-devkit
+numpy
+pyquaternion
+Pillow
